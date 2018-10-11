@@ -1,1 +1,1 @@
-console.log("aku sayang diriku!");
+console.log("aku sayang diriku tau!");
